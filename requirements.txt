@@ -1,0 +1,16 @@
+#plateform 
+Visualstudiocode
+
+#Tech Stack
+python - make a script
+mysql - to store and retrive the data
+streamlit - framework to build app
+pandas - data cleaning
+
+#install packages
+!pip install mysql-connector-python
+!pip install streamlit
+!pip install plotly
+
+#Create virtual environment
+python -m venv env
