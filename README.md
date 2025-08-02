@@ -15,7 +15,7 @@ police_stops.csv - cleaned_data
 ## 📁 Project Structure
 
 Police_SecureCheck/
-├── db_conn.ipynb # Jupyter notebook for data preprocessing
+├── db_conn.ipynb # VS Code for data preprocessing
 ├── strmlitapp.py # Streamlit dashboard application
 ├── requirements.txt # List of Python dependencies
 ├── police_stops.csv # Raw dataset (CSV format)
